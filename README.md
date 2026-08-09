@@ -3,8 +3,8 @@
 Curso de Inteligência Artificial — FIAP | Grupo 7
 
 **Integrante:** 
-Kauan Maciel Forgiarini — RM: `RM574005` 
-Wagner Adriano de Souza Silva Junior - RM: 'RM569431'
+- **Aluno:** Kauan Maciel Forgiarini | **RM:** 574005
+- **Aluno:** Wagner Adriano de Souza Silva Junior | **RM:** 569431
 
 ---
 
@@ -66,7 +66,7 @@ O acréscimo de custo (~US$ 8,27/mês na configuração mínima) é considerado 
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-jupyter notebook KauanMacielForgiarini_rmXXXXXX_pbl_fase5.ipynb
+jupyter notebook KauanMacielForgiarini_rm574005_pbl_fase5.ipynb
 ```
 
 ---
