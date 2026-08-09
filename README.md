@@ -2,7 +2,9 @@
 **Cap 1 — FarmTech na Era da Cloud Computing**
 Curso de Inteligência Artificial — FIAP | Grupo 7
 
-**Integrante:** Kauan Maciel Forgiarini — RM: `___________` *(preencha seu RM antes de entregar)*
+**Integrante:** 
+Kauan Maciel Forgiarini — RM: `RM574005` 
+Wagner Adriano de Souza Silva Junior - RM: 'RM569431'
 
 ---
 
