@@ -23,7 +23,7 @@ O trabalho está dividido em duas entregas obrigatórias:
 
 Todo o desenvolvimento, análise e discussão dos resultados está no notebook Jupyter:
 
-📓 **[`KauanMacielForgiarini_rmXXXXXX_pbl_fase5.ipynb`](./KauanMacielForgiarini_rmXXXXXX_pbl_fase5.ipynb)**
+📓 **[`KauanMacielForgiarini_rmXXXXXX_pbl_fase5.ipynb`](./KauanMacielForgiarini_rm574005_pbl_fase5.ipynb)**
 
 O notebook contém, em ordem:
 1. Análise exploratória de dados (EDA) — distribuições, correlações e detecção de outliers.
